@@ -1,0 +1,58 @@
+{
+  "general": {
+    "rate": 20,
+    "gripType": "cgm:two_handed",
+    "maxAmmo": 5,
+    "reloadAmount": 1,
+    "recoilAngle": 15.0,
+    "recoilKick": 1.5,
+    "recoilAdsReduction": 0.75,
+    "alwaysSpread": true,
+    "spread": 1.5
+  },
+  "projectile": {
+    "item": "stabxmodernguns:300wm",
+    "visible": false,
+    "gravity": true,
+    "damage": 45.0,
+    "size": 2.0,
+    "speed": 30,
+    "life": 90
+  },
+  "sounds": {
+    "fire": "stabxmodernguns:item.artic_warfare_magnum.fire",
+    "reload": "cgm:item.pistol.reload",
+    "cock": "stabxmodernguns:item.artic_warfare_magnum.cock",
+    "silencedFire": "stabxmodernguns:item.ak47.suppressed"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 3.6,
+      "zOffset": -18.75
+    }
+  },
+  "modules": {
+    "zoom": {
+      "fovModifier": 0.6,
+      "yOffset": 3.15,
+      "zOffset": 2.2
+    },
+    "attachments": {
+      "scope": {
+        "yOffset": 2.9,
+        "zOffset": 2,
+        "scale": 0.60
+      },
+      "barrel": {
+        "yOffset": 2.58,
+        "zOffset": -15.5,
+        "scale": 0.50
+      },
+      "underBarrel": {
+        "yOffset": 1.8,
+        "zOffset": -3,
+        "scale" : 0.50
+      }
+    }
+  }
+}

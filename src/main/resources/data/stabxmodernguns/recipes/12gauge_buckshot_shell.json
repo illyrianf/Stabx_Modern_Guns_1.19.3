@@ -1,0 +1,25 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 8,
+      "tag": "forge:gunpowder"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:red_dye"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "count": 9,
+      "tag": "forge:nuggets/iron"
+    }
+  ],
+  "result": {
+    "count": 128,
+    "item": "stabxmodernguns:12gauge_buckshot_shell"
+  }
+}

@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="GNU General Public License v3.0"
+
+[[mods]]
+    modId="stabxmodernguns"
+    version="2.0"
+    displayName="Stabx Modern Guns"
+    authors="Stabilizer King Dynasty"
+    credits="Me and All the guys who worked in Stabilizer Gaming Studio"
+    description="Adds HD Guns for MrcrayFish Gun mod"
+
+[[dependencies.stabxmodernguns]]
+    modId="forge"
+    mandatory=true
+    versionRange="[41.0.94,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="cgm"
+    mandatory=true
+    versionRange="[1.2.8,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxmodernguns]]
+    modId="framework"
+    mandatory=true
+    versionRange="[0.3.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[modproperties.stabxmodernguns]
+    catalogueItemIcon="stabxmodernguns:hk416"

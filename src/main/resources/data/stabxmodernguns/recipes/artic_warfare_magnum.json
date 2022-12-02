@@ -1,0 +1,16 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "count": 90,
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "result": {
+    "item": "stabxmodernguns:artic_warfare_magnum"
+  }
+}
