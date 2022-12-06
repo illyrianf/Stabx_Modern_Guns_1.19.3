@@ -24,7 +24,7 @@
 		"fire": "stabxmodernguns:item.m4.fire",
 		"reload": "cgm:item.pistol.reload",
 		"cock": "stabxmodernguns:item.m4.cock",
-		"silencedFire": "stabxmodernguns:item.g36c.suppressed"
+		"silencedFire": "stabxmodernguns:item.g36chd.suppressed"
 	},
 	"display": {
 		"flash": {

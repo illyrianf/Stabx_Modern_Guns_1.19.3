@@ -21,10 +21,10 @@
 		"life": 25
 	},
 	"sounds": {
-		"fire": "stabxmodernguns:item.g36c.fire",
+		"fire": "stabxmodernguns:item.g36chd.fire",
 		"reload": "cgm:item.pistol.reload",
-		"cock": "stabxmodernguns:item.g36c.cock",
-		"silencedFire": "stabxmodernguns:item.g36c.suppressed"
+		"cock": "stabxmodernguns:item.g36chd.cock",
+		"silencedFire": "stabxmodernguns:item.g36chd.suppressed"
 	},
 	"display": {
 		"flash": {

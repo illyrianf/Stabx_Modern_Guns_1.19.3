@@ -32,7 +32,7 @@ public class ModItemRegisteration {
     public static final RegistryObject<Item> MP_FIVE= registerGun("mp5_classic", false);
     public static final RegistryObject<Item> M_SIXTEEN= registerGun("m16", false);
     public static final RegistryObject<Item> M_FOUR= registerGun("m4", false);
-    public static final RegistryObject<Item> G_THIRTYSIX_C= registerGun("g36c", false);
+    public static final RegistryObject<Item> G_THIRTYSIX_CHD= registerGun("g36chd", false);
     public static final RegistryObject<Item> M_FOUR_A_ONE= registerGun("m4a1", false);
     public static final RegistryObject<Item> SPAS_ONE_TWO= registerGun("spas12", false);
     public static final RegistryObject<Item> ARISAKA_TYPE_NINE_NINE= registerGun("arisaka_type99", false);
@@ -60,7 +60,7 @@ public class ModItemRegisteration {
     //Weaapons Ammo
     public static final RegistryObject<Item> NINE_MM = registerAmmo("9mm");
     public static final RegistryObject<Item> SEVEN_SIXTYTWO_MM = registerAmmo("7.62mm");
-    public static final RegistryObject<Item> TOWEVLE_GUAGE_BUCKSHOT = registerAmmo("12gauge_buckshot_shell");
+    public static final RegistryObject<Item> TOWEVLE_GUAGE_BUCKSHOT = registerAmmo("12gauge_buckshot_slug_shell_360");
     public static final RegistryObject<Item> FIVE_FIFTYSIX_X_FOURTY_FIVE_NATO = registerAmmo("5.56x45_nato");
     public static final RegistryObject<Item> SEVEN_SEVEN_X_FIFTY_EIGHT_MM = registerAmmo("7.7x58mm");
     public static final RegistryObject<Item> SEVEN_THIRTYTWO_MM_KURZ = registerAmmo("7.32x33mm_kurz");

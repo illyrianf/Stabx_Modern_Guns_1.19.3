@@ -40,9 +40,9 @@ public class ModSoundRegisteration {
     public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_SUPPRESSED = register("item.mkmod11.suppressed");
     public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_RELOAD = register("item.mkmod11.reload");
     public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_COCK = register("item.mkmod11.cock");
-    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_C_FIRE = register("item.g36c.fire");
-    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_C_SUPPRESSED = register("item.g36c.suppressed");
-    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_C_COCK = register("item.g36c.cock");
+    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_CHD_FIRE = register("item.g36chd.fire");
+    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_CHD_SUPPRESSED = register("item.g36chd.suppressed");
+    public static final RegistryObject<SoundEvent> G_THIRTY_SIX_CHD_COCK = register("item.g36chd.cock");
     public static final RegistryObject<SoundEvent> M_FOUR_FIRE = register("item.m4.fire");
     public static final RegistryObject<SoundEvent> M_FOUR_COCK = register("item.m4.cock");
     public static final RegistryObject<SoundEvent> M_SIXTEEN_FIRE = register("item.m16.fire");

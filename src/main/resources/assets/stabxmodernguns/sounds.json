@@ -231,27 +231,27 @@
       }
     ]
   },
-  "item.g36c.fire": {
+  "item.g36chd.fire": {
     "subtitle": "subtitle.stabxmodernguns.fire",
     "sounds": [
       {
-        "name": "stabxmodernguns:item/g36c_fire"
+        "name": "stabxmodernguns:item/g36chd_fire"
       }
     ]
   },
-  "item.g36c.suppressed": {
+  "item.g36chd.suppressed": {
     "subtitle": "subtitle.stabxmodernguns.suppressed_fire",
     "sounds": [
       {
-        "name": "stabxmodernguns:item/g36c_suppressed"
+        "name": "stabxmodernguns:item/g36chd_suppressed"
       }
     ]
   },
-  "item.g36c.cock": {
+  "item.g36chd.cock": {
     "subtitle": "subtitle.stabxmodernguns.cock",
     "sounds": [
       {
-        "name": "stabxmodernguns:item/g36c_cock"
+        "name": "stabxmodernguns:item/g36chd_cock"
       }
     ]
   },
