@@ -2,7 +2,7 @@
   "type": "cgm:workbench",
   "materials": [
     {
-      "count": 8,
+      "count": 3,
       "tag": "forge:gunpowder"
     },
     {
@@ -10,7 +10,7 @@
       "item": "minecraft:red_dye"
     },
     {
-      "count": 6,
+      "count": 4,
       "item": "minecraft:yellow_dye"
     },
     {
@@ -19,7 +19,7 @@
     }
   ],
   "result": {
-    "count": 128,
-    "item": "stabxmodernguns:12gauge_buckshot_shell_360"
+    "count": 64,
+    "item": "stabxmodernguns:12gauge_buckshot_slug_shell_360"
   }
 }

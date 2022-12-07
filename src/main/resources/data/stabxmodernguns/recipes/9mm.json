@@ -6,12 +6,12 @@
       "tag": "forge:gunpowder"
     },
     {
-      "count": 4,
+      "count": 5,
       "item": "minecraft:copper_ingot"
     }
   ],
   "result": {
-    "count": 80,
+    "count": 70,
     "item": "stabxmodernguns:9mm"
   }
 }

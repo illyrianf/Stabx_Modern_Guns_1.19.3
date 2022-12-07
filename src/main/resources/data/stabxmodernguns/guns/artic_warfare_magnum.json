@@ -5,16 +5,16 @@
     "maxAmmo": 5,
     "reloadAmount": 1,
     "recoilAngle": 15.0,
-    "recoilKick": 1.5,
-    "recoilAdsReduction": 0.75,
+    "recoilKick": 1.9,
+    "recoilAdsReduction": 0.7,
     "alwaysSpread": true,
-    "spread": 1.5
+    "spread": 0.1
   },
   "projectile": {
     "item": "stabxmodernguns:300wm",
     "visible": false,
     "gravity": true,
-    "damage": 45.0,
+    "damage": 35,
     "size": 2.0,
     "speed": 30,
     "life": 90

@@ -9,7 +9,7 @@
     "recoilKick": 3.5,
     "recoilAdsReduction": 0.2,
     "alwaysSpread": true,
-    "spread": 0.90
+    "spread": 0.9
   },
   "projectile": {
     "item": "stabxmodernguns:50ae",
