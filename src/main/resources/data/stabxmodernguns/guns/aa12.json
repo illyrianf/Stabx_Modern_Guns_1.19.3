@@ -10,7 +10,7 @@
 		"recoilAdsReduction": 0.5,
 		"projectileAmount": 18,
 		"alwaysSpread": true,
-		"spread": 10.0
+		"spread": 18.0
 	},
 	"projectile": {
 		"item": "stabxmodernguns:12gauge_buckshot_slug_shell_360",

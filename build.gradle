@@ -11,9 +11,9 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'maven-publish'
 
-version = "2.0"
+version = "3.0"
 group = "com.stabilizerking.stabxmodernguns"
-archivesBaseName = "Stabx_Modern_Guns_Addon"
+archivesBaseName = "Stabx_Modern_Guns"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 

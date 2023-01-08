@@ -10,12 +10,12 @@
       "tag": "forge:ingots/iron"
     },
     {
-      "count": 8,
+      "count": 2,
       "item": "minecraft:copper_ingot"
     }
   ],
   "result": {
-    "count": 64,
+    "count": 45,
     "item": "stabxmodernguns:45acp"
   }
 }

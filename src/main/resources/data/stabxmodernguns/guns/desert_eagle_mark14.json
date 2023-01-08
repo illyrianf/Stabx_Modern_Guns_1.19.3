@@ -4,17 +4,17 @@
     "rate": 8,
     "gripType": "cgm:one_handed",
     "maxAmmo": 7,
-    "reloadAmount": 5,
+    "reloadAmount": 3,
     "recoilAngle": 12,
     "recoilKick": 3.5,
     "recoilAdsReduction": 0.2,
     "alwaysSpread": true,
-    "spread": 0.9
+    "spread": 0.90
   },
   "projectile": {
     "item": "stabxmodernguns:50ae",
     "visible": false,
-    "damage": 16.5,
+    "damage": 16,
     "size": 0.1,
     "speed": 20.0,
     "life": 25

@@ -13,7 +13,7 @@
 	},
 
 	"projectile": {
-		"item": "stabxmodernguns:7.62mm",
+		"item": "stabxmodernguns:7.62x51mm_nato",
 		"visible": false,
 		"gravity": true,
 		"damage": 7.5,
@@ -29,7 +29,7 @@
 	},
 	"display": {
 		"flash": {
-			"yOffset": 1.6,
+			"yOffset": 4.6,
 			"zOffset": -26.1
 		}
 	},

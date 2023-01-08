@@ -2,7 +2,7 @@
   "type": "cgm:workbench",
   "materials": [
     {
-      "count": 37,
+      "count": 40,
       "tag": "forge:ingots/iron"
     }
   ],

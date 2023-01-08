@@ -15,7 +15,7 @@
 		"item": "stabxmodernguns:7.62mm",
 		"visible": false,
 		"gravity": true,
-		"damage": 9,
+		"damage": 8,
 		"size": 0.2,
 		"speed": 25,
 		"life": 35

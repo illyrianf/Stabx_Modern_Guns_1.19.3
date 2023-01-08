@@ -2,24 +2,28 @@
   "type": "cgm:workbench",
   "materials": [
     {
-      "count": 3,
-      "tag": "forge:gunpowder"
+      "tag": "forge:gunpowder",
+      "count": 3
     },
     {
-      "count": 4,
-      "item": "minecraft:red_dye"
+      "item": "minecraft:red_dye",
+      "count": 2
     },
     {
-      "count": 4,
-      "item": "minecraft:yellow_dye"
+      "item": "minecraft:yellow_dye",
+      "count": 4
     },
     {
-      "count": 9,
-      "tag": "forge:nuggets/iron"
+      "tag": "forge:ingots/iron",
+      "count": 8
+    },
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
     }
   ],
   "result": {
-    "count": 64,
-    "item": "stabxmodernguns:12gauge_buckshot_slug_shell_360"
+    "item": "stabxmodernguns:12gauge_buckshot_slug_shell_360",
+    "count": 120
   }
 }

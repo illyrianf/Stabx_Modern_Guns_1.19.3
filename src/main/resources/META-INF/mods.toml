@@ -4,11 +4,11 @@ license="GNU General Public License v3.0"
 
 [[mods]]
     modId="stabxmodernguns"
-    version="2.2"
+    version="3.0"
     displayName="Stabx Modern Guns"
     authors="Stabilizer King Dynasty"
     credits="Me and All the guys who worked in Stabilizer Gaming Studio"
-    description="Addon for Mrcrayfishes gun mod that adds all 21 HD guns with better models and good sounds"
+    description="Addon for Mrcrayfishes gun mod that adds High Quality Guns With Amazing Sounds"
 
 [[dependencies.stabxmodernguns]]
     modId="forge"
@@ -36,4 +36,4 @@ license="GNU General Public License v3.0"
     side="BOTH"
 
 [modproperties.stabxmodernguns]
-    catalogueItemIcon="stabxmodernguns:hk416"
+    catalogueItemIcon="stabxmodernguns:m4"

@@ -7,11 +7,15 @@
     },
     {
       "count": 3,
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "count": 2,
       "item": "minecraft:copper_ingot"
     }
   ],
   "result": {
-    "count": 36,
+    "count": 70,
     "item": "stabxmodernguns:7.62mm"
   }
 }

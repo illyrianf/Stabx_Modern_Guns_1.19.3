@@ -2,7 +2,7 @@
   "type": "cgm:workbench",
   "materials": [
     {
-      "count": 6,
+      "count": 4,
       "tag": "forge:gunpowder"
     },
     {
@@ -15,7 +15,7 @@
     }
   ],
   "result": {
-    "count": 12,
+    "count": 64,
     "item": "stabxmodernguns:300wm"
   }
 }

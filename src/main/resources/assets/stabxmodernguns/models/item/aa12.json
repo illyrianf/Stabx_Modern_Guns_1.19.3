@@ -4750,15 +4750,16 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"translation": [-6.75, 7, 2.75],
+			"translation": [-6.25, 7, 3],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_lefthand": {
-			"translation": [-6.75, 7, 2.75],
+			"translation": [-6.25, 7, 3],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"ground": {
-			"translation": [0, 7, 0]
+			"translation": [0, 6.5, 0],
+			"scale": [0.8, 0.8, 0.7]
 		},
 		"gui": {
 			"rotation": [35, -134, 0],

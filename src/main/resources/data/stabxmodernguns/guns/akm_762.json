@@ -15,15 +15,15 @@
 		"item": "stabxmodernguns:7.62mm",
 		"visible": false,
 		"gravity": true,
-		"damage": 9,
+		"damage": 8,
 		"size": 0.2,
 		"speed": 25,
 		"life": 35
 	},
 	"sounds": {
-		"fire": "stabxmodernguns:item.ak47.fire",
+		"fire": "stabxmodernguns:item.akm762.fire",
 		"reload": "cgm:item.pistol.reload",
-		"cock": "stabxmodernguns:item.ak47.cock",
+		"cock": "stabxmodernguns:item.akm762.cock",
 		"silencedFire": "stabxmodernguns:item.ak47.suppressed"
 	},
 	"display": {
