@@ -45,7 +45,7 @@ public class ModItemRegisteration {
     public static final RegistryObject<Item> ACR_BUSHMASTER= registerGun("acr_360_bushmaster", false);
     public static final RegistryObject<Item> M16= registerGun("m16", false);
     public static final RegistryObject<Item> M4A1= registerGun("m4a1", false);
-    public static final RegistryObject<Item> G_36C_HD= registerGun("g36chd", false);
+    public static final RegistryObject<Item> G36C_HD= registerGun("g36chd", false);
 
     //Rifles
     public static final RegistryObject<Item> ARISAKA_TYPE99= registerGun("arisaka_type99", false);
@@ -80,7 +80,7 @@ public class ModItemRegisteration {
     public static final RegistryObject<Item> ANGLED_FOREGRIP = ITEMS.register("angled_foregrip", () -> new UnderBarrelItem(UnderBarrel.create(GunModifiers.BETTER_CONTROL), genericProperties));
 
 
-    //Weaapons Ammo
+    //Weaapons Ammunation
     public static final RegistryObject<Item> NINE_MM = registerAmmo("9mm");
     public static final RegistryObject<Item> NINE_X_NINTEEN_MM_PARABELLUM = registerAmmo("9x19mm_parabellum");
     public static final RegistryObject<Item> SEVEN_SIXTYTWO_MM = registerAmmo("7.62mm");
