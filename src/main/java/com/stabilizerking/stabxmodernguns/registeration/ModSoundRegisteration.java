@@ -39,25 +39,25 @@ public class ModSoundRegisteration {
     public static final RegistryObject<SoundEvent> AKS_74UX_FIRE = register("item.aks74ux.fire");;
     public static final RegistryObject<SoundEvent> AKS_74UX_COCK = register("item.aks74ux.cock");
     public static final RegistryObject<SoundEvent> HK416_SIX_FIRE  = register("item.hk416.fire");
-    public static final RegistryObject<SoundEvent> STG_FOURTY_FOUR_FIRE = register("item.stg44.fire");
-    public static final RegistryObject<SoundEvent> STG_FOURTY_FOUR_SUPPRESSED = register("item.stg44.suppressed");
-    public static final RegistryObject<SoundEvent> SCAR_SEVENTEEN_FIRE = register("item.scar17.fire");
-    public static final RegistryObject<SoundEvent> SCAR_SEVENTEEN_SUPPRESSED = register("item.scar17.suppressed");
-    public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_FIRE = register("item.mkmod11.fire");
-    public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_SUPPRESSED = register("item.mkmod11.suppressed");
-    public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_RELOAD = register("item.mkmod11.reload");
-    public static final RegistryObject<SoundEvent> MK_MOD_ELEVEN_COCK = register("item.mkmod11.cock");
-    public static final RegistryObject<SoundEvent> M_FOUR_FIRE = register("item.m4.fire");
-    public static final RegistryObject<SoundEvent> M_FOUR_COCK = register("item.m4.cock");
-    public static final RegistryObject<SoundEvent> M_FOUR_A_ONE_FIRE = register("item.m4a1.fire");
-    public static final RegistryObject<SoundEvent> M_FOUR_A_ONE_COCK = register("item.m4a1.cock");
-    public static final RegistryObject<SoundEvent> M_FOUR_A_ONE_SUPPRESSED = register("item.m4a1.suppressed");
-    public static final RegistryObject<SoundEvent> M_SIXTEEN_FIRE = register("item.m16.fire");
-    public static final RegistryObject<SoundEvent> M_SIXTEEN_COCK = register("item.m16.cock");
-    public static final RegistryObject<SoundEvent> M_SIXTEEN_SUPPRESSED = register("item.m16.suppressed");
-    public static final RegistryObject<SoundEvent> G_THIRTYSIX_C_HD_FIRE = register("item.g36chd.fire");
-    public static final RegistryObject<SoundEvent> G_THIRTYSIX_C_HD_COCK = register("item.g36chd.cock");
-    public static final RegistryObject<SoundEvent> G_THIRTYSIX_C_HD_SUPPRESSED = register("item.g36chd.suppressed");
+    public static final RegistryObject<SoundEvent> STG_44_FIRE = register("item.stg44.fire");
+    public static final RegistryObject<SoundEvent> STG_44_SUPPRESSED = register("item.stg44.suppressed");
+    public static final RegistryObject<SoundEvent> SCAR_17_FIRE = register("item.scar17.fire");
+    public static final RegistryObject<SoundEvent> SCAR_17_SUPPRESSED = register("item.scar17.suppressed");
+    public static final RegistryObject<SoundEvent> MK_MOD_11_FIRE = register("item.mkmod11.fire");
+    public static final RegistryObject<SoundEvent> MK_MOD_11_SUPPRESSED = register("item.mkmod11.suppressed");
+    public static final RegistryObject<SoundEvent> MK_MOD_11_RELOAD = register("item.mkmod11.reload");
+    public static final RegistryObject<SoundEvent> MK_MOD_11_COCK = register("item.mkmod11.cock");
+    public static final RegistryObject<SoundEvent> M4_FIRE = register("item.m4.fire");
+    public static final RegistryObject<SoundEvent> M4_COCK = register("item.m4.cock");
+    public static final RegistryObject<SoundEvent> M4A1_FIRE = register("item.m4a1.fire");
+    public static final RegistryObject<SoundEvent> M4A1_COCK = register("item.m4a1.cock");
+    public static final RegistryObject<SoundEvent> M4A1_SUPPRESSED = register("item.m4a1.suppressed");
+    public static final RegistryObject<SoundEvent> M16_FIRE = register("item.m16.fire");
+    public static final RegistryObject<SoundEvent> M16_COCK = register("item.m16.cock");
+    public static final RegistryObject<SoundEvent> M16_SUPPRESSED = register("item.m16.suppressed");
+    public static final RegistryObject<SoundEvent> G36C_HD_FIRE = register("item.g36chd.fire");
+    public static final RegistryObject<SoundEvent> G36C_HD_COCK = register("item.g36chd.cock");
+    public static final RegistryObject<SoundEvent> G36C_HD_SUPPRESSED = register("item.g36chd.suppressed");
     public static final RegistryObject<SoundEvent> ACR_BUSHMASTER_FIRE = register("item.acr_bushmaster.fire");
     public static final RegistryObject<SoundEvent> ACR_BUSHMASTER_COCK = register("item.acr_bushmaster.cock");
 
@@ -93,6 +93,6 @@ public class ModSoundRegisteration {
     public static final RegistryObject<SoundEvent> MK_170_CROSSBOW_COCK = register("item.mk_170_crossbow.cock");
 
     private static RegistryObject<SoundEvent> register(String name) {
-        return SOUNDS.register(name, () -> new SoundEvent(new ResourceLocation(StabxModernGuns.MOD_ID, name)));
+        return SOUNDS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(StabxModernGuns.MOD_ID, name)));
     }
 }

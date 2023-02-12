@@ -11,14 +11,14 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'maven-publish'
 
-version = "3.2"
+version = "4.2"
 group = "com.stabilizerking.stabxmodernguns"
 archivesBaseName = "Stabx_Modern_Guns"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 minecraft {
-    mappings channel: 'official', version: '1.19.2'
+    mappings channel: 'official', version: '1.19.3'
 
     runs {
         client {
@@ -52,7 +52,7 @@ minecraft {
             property 'forge.logging.markers', 'REGISTRIES'
             property 'forge.logging.console.level', 'debug'
             property 'mixin.env.disableRefMap', 'true'
-            args '--mod', 'additionalguns', '--all', '--output', file('src/generated/resources/')
+            args '--mod', 'stabxmodernguns', '--all', '--output', file('src/generated/resources/')
 
             mods {
                 stabxmodernguns {
@@ -72,16 +72,16 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.19.2-43.2.0'
+    minecraft 'net.minecraftforge:forge:1.19.3-44.1.16'
 
-    implementation fg.deobf('curse.maven:framework-549225:4287474')
-    implementation fg.deobf('curse.maven:mrcrayfishs-gun-mod-289479:4325670')
-    runtimeOnly fg.deobf('curse.maven:configured-457570:4011355')
-    runtimeOnly fg.deobf('curse.maven:catalogue-459701:4171024')
-    runtimeOnly fg.deobf('curse.maven:jei-238222:4239206')
+    implementation fg.deobf('curse.maven:framework-549225:4389992')
+    implementation fg.deobf('curse.maven:mrcrayfishs-gun-mod-289479:4390785')
+    runtimeOnly fg.deobf('curse.maven:configured-457570:4166861')
+    runtimeOnly fg.deobf('curse.maven:catalogue-459701:4171025')
+    runtimeOnly fg.deobf('curse.maven:jei-238222:4371830')
 }
 
-jar {
+ jar {
     manifest {
         attributes([
             "Specification-Title": "Stabx Modern Guns",

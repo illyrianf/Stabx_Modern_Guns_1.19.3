@@ -14,7 +14,7 @@
   "projectile": {
     "item": "stabxmodernguns:9x19mm_parabellum",
     "visible": false,
-    "damage": 4.5,
+    "damage": 5.5,
     "size": 0.1,
     "speed": 20.0,
     "life": 25
@@ -27,20 +27,20 @@
   },
   "display": {
     "flash": {
-      "yOffset": 8.1,
-      "zOffset": -10.0
+      "yOffset": 8.9,
+      "zOffset": -10.3
     }
   },
   "modules": {
     "zoom": {
       "fovModifier": 0.6,
-      "yOffset": 10.45,
+      "yOffset": 10.6,
       "zOffset": -3
     },
     "attachments": {
       "barrel": {
         "yOffset": 9,
-        "zOffset": -7.2,
+        "zOffset": -7.3,
         "scale": 0.70
       }
     }

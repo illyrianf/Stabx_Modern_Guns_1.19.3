@@ -6,7 +6,7 @@
 		"maxAmmo": 40,
 		"reloadAmount": 3,
 		"recoilAngle": 2.0,
-		"recoilKick": 1.5,
+		"recoilKick": 1.1,
 		"recoilAdsReduction": 0.7,
 		"alwaysSpread": true,
 		"spread": 2.0
@@ -27,7 +27,7 @@
 	},
 	"display": {
 		"flash": {
-			"yOffset": 2.5,
+			"yOffset": 2.4,
 			"zOffset": 26
 		}
 	},
@@ -36,6 +36,6 @@
 			"fovModifier": 0.8,
 			"yOffset": 5,
 			"zOffset": 2.5
-		}
-	}
+	   }
+       }
 }

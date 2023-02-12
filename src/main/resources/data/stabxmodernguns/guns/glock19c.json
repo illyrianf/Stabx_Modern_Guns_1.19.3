@@ -27,20 +27,20 @@
   },
   "display": {
     "flash": {
-      "yOffset": 3.2,
-      "zOffset": -2.0
+      "yOffset": 2.2,
+      "zOffset": 1.2
     }
   },
   "modules": {
     "zoom": {
       "fovModifier": 0.6,
       "yOffset": 3.35,
-      "zOffset": -4
+      "zOffset": -3.5
     },
     "attachments": {
       "barrel": {
         "yOffset": 2,
-        "zOffset": 0.2,
+        "zOffset": 2.7,
         "scale": 0.70
       }
     }

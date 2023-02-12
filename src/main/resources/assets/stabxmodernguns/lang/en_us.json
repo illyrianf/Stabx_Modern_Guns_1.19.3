@@ -20,7 +20,7 @@
   "item.stabxmodernguns.striker45": "Striker 45",
   "item.stabxmodernguns.akm_762": "AKM 762",
   "item.stabxmodernguns.aks74ux": "AKs-74ux",
-  "item.stabxmodernguns.desert_eagle_mark14": "Desert eagle Mark14",
+  "item.stabxmodernguns.desert_eagle_mark14": "Desert eagle Mk14",
   "item.stabxmodernguns.mp40": "MP40",
   "item.stabxmodernguns.acr_360_bushmaster": "ACR 360 Bushmaster",
   "item.stabxmodernguns.barrett_m82_sniper": "Barrett M82A1 Sniper",
@@ -28,13 +28,18 @@
   "item.stabxmodernguns.tec9": "Tec 9",
   "item.stabxmodernguns.m1_grande": "M1 Garand",
 
-  "item.stabxmodernguns.za_mini_red_dot_sight": "ZA mini Sight",
+  "item.stabxmodernguns.za_mini_red_dot_sight": "ZA Mini Sight",
+  "item.stabxmodernguns.red_dot_sight": "Red Dot Sight",
+  "item.stabxmodernguns.holographic_sight": "Holographic Sight",
+  "item.stabxmodernguns.acog_sight": "ACOG Sight",
 
   "item.stabxmodernguns.custom_stock": "Custom Stock",
 
   "item.stabxmodernguns.advanced_suppressor": "Advanced Suppressor",
+  "item.stabxmodernguns.advanced_muzzle_brake": "Advanced Muzzle Brake",
 
   "item.stabxmodernguns.angled_foregrip": "Angled Foregrip",
+  "item.stabxmodernguns.vertical_foregrip": "Vertical Foregrip",
 
   "item.stabxmodernguns.9mm": "9mm",
   "item.stabxmodernguns.9x19mm_parabellum": "9x19mm Parabellum",
@@ -49,7 +54,7 @@
   "item.stabxmodernguns.50ae": "50 AE",
   "item.stabxmodernguns.45acp": ".45 ACP",
   "item.stabxmodernguns.50bmg": ".50 BMG",
-  "item.stabxmodernguns.30_60_springfield_cartridge": "30-60 Springfield",
+  "item.stabxmodernguns.30_60_springfield_cartridge": "30-60 SpringField",
   "item.stabxmodernguns.mk_crossbow_arrow": "MK Crossbow Arrow",
 
 
@@ -58,5 +63,7 @@
   "subtitle.stabxmodernguns.enchanted_fire": "Enchanted gunfire",
 
 
-  "itemGroup.stabxmodernguns": "Stabx Modern Guns"
+
+  "itemGroup.stabxmodernguns": "Stabx Modern Guns",
+  "itemGroup.stabx_smgs": "Sub Machine Guns"
 }

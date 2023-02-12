@@ -21,7 +21,7 @@ public class M1GrandePingSoundEvent {
         ItemStack heldItem = player.getMainHandItem();
         CompoundTag tag = heldItem.getTag();
 
-        if(heldItem.getItem() == ModItemRegisteration.M_ONE_GRANDE.get() && tag != null) {
+        if(heldItem.getItem() == ModItemRegisteration.M1_GRANDE.get() && tag != null) {
 
             if(tag.getInt("AmmoCount") == 1)
                 event.getEntity().level.playSound(player, player.blockPosition(), ModSoundRegisteration.M1_GRANDE_PING.get(), SoundSource.MASTER, 3.0F, 1.0F);
