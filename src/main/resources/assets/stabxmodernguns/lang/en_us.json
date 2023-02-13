@@ -65,5 +65,13 @@
 
 
   "itemGroup.stabxmodernguns": "Stabx Modern Guns",
-  "itemGroup.stabx_smgs": "Sub Machine Guns"
+  "itemGroup.stabx_smgs": "Sub Machine Guns",
+  "itemGroup.stabx_assault_rifles": "Assault Rifles",
+  "itemGroup.stabx_rifles": "Rifles",
+  "itemGroup.stabx_sniper_rifles": "Sniper Rifles",
+  "itemGroup.stabx_lmgs": "Light Machine Guns",
+  "itemGroup.stabx_shotguns": "Shotguns",
+  "itemGroup.stabx_miscellaneous": "Miscellaneous",
+  "itemGroup.stabx_attachments": "Attachments",
+  "itemGroup.stabx_ammunition": "Ammunition"
 }
