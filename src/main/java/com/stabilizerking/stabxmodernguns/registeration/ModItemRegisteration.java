@@ -202,7 +202,7 @@ public class ModItemRegisteration {
             () -> new AmmoItem(new Item.Properties()));
 
 
-    private static RegistryObject<Item> registerAmmo(String name) {
+    private static RegistryObject<AmmoItem> registerAmmo(String name) {
         return ITEMS.register(name, () -> new AmmoItem(new Item.Properties()));
     }
 
