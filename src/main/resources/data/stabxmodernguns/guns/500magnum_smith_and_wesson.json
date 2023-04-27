@@ -1,8 +1,8 @@
 {
   "general": {
-    "rate": 8,
+    "rate": 12,
     "gripType": "cgm:one_handed",
-    "maxAmmo": 6,
+    "maxAmmo": 5,
     "reloadAmount": 1,
     "recoilAngle": 10.0,
     "recoilKick": 3.5,
@@ -14,7 +14,7 @@
     "item": "stabxmodernguns:50_caliber",
     "visible": false,
     "gravity": true,
-    "damage": 16.0,
+    "damage": 25.0,
     "size": 0.2,
     "speed": 25.0,
     "life": 35
