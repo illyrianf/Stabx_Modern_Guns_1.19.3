@@ -1,7 +1,7 @@
 {
   "general": {
     "auto": false,
-    "rate": 8,
+    "rate": 12,
     "gripType": "cgm:one_handed",
     "maxAmmo": 7,
     "reloadAmount": 3,
@@ -14,7 +14,7 @@
   "projectile": {
     "item": "stabxmodernguns:50ae",
     "visible": false,
-    "damage": 16,
+    "damage": 22,
     "size": 0.1,
     "speed": 20.0,
     "life": 25
